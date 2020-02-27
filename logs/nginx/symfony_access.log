@@ -249,3 +249,4 @@
 172.29.0.1 - - [26/Feb/2020:08:19:15 +0000] "POST /api/articles HTTP/1.1" 201 55 "-" "PostmanRuntime/7.22.0"
 172.29.0.1 - - [26/Feb/2020:08:19:20 +0000] "GET /api/articles HTTP/1.1" 200 57 "-" "PostmanRuntime/7.22.0"
 172.29.0.1 - - [26/Feb/2020:08:19:23 +0000] "POST /api/articles HTTP/1.1" 201 55 "-" "PostmanRuntime/7.22.0"
+172.20.0.1 - - [27/Feb/2020:06:14:12 +0000] "GET /api/articles HTTP/1.1" 500 252 "-" "PostmanRuntime/7.22.0"
